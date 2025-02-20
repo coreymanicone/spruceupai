@@ -1,3 +1,9 @@
 export default function Home() {
-  return <h1>Welcome to SpruceUpAI 🎉</h1>;
+  return (
+    <html lang="en">
+      <body>
+        <h1>Welcome to SpruceUpAI 🎉</h1>
+      </body>
+    </html>
+  );
 }
